@@ -15,10 +15,22 @@ Brain-even
 Brain-calc
 ```
 [![asciicast](https://asciinema.org/a/5LcXRN1JukNhyHb7WtZlHrpM8)
-### Start game "brain-gcd":
+### Start game "Brain-gcd":
 ```
 
 Brain-gcd
 ```
 [![asciicast](https://asciinema.org/a/CBEHXxhcVg98AxlOI7KVXA7Ah)
+### Start game "Brain-progression"
+```
 
+Brain-progression
+```
+[![asciicast](https://asciinema.org/a/lhojDWeF5C8NuZySMdOYqK0N9)
+
+### Start game "Brain-prime"
+```
+
+Brain-prime
+```
+[![asciicast](https://asciinema.org/a/AYqfW5KRoskAARiWGf8c7oIv7)
