@@ -1,4 +1,4 @@
-import redlineSync from 'readline-sync';
+import redlineSync from 'redline-sync';
 
 const sayGreetings = () => {
   console.log('Welcome to the Brain Games!');
